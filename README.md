@@ -1,2 +1,2 @@
 # ds4
-Repositorio de la UTP Desarollo de Software 4
+Repositorio de la materia Desarollo de Software IV de la UTP
